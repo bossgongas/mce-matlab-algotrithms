@@ -28,8 +28,8 @@ The program includes input validation (e.g., function format, domain, variable c
 
 ## 📄 Files
 
-- `Relatorio_Projeto.pdf` — final report with methodology and explanations
-- `src/` — folder with all `.m` files (main, menu, method implementations)
+- `Relatorio_Projeto.pdf` - final report with methodology and explanations
+- `src/` - folder with all `.m` files (main, menu, method implementations)
 
 ## 👨‍🎓 Authors
 
